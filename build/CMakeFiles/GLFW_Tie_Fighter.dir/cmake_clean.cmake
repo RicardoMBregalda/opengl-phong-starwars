@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/GLFW_Tie_Fighter.dir/main.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/main.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Application.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Application.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cube.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cube.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cylinder.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cylinder.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Hexagon.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Hexagon.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/HexagonalPrism.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/HexagonalPrism.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Mesh.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Mesh.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Plate.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Plate.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Skybox.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Skybox.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Sphere.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Sphere.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Texture.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/Texture.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieFighter.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieFighter.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieWing.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieWing.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWing.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWing.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWingClosed.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWingClosed.cpp.obj.d"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/stb_image.cpp.obj"
+  "CMakeFiles/GLFW_Tie_Fighter.dir/src/stb_image.cpp.obj.d"
+  "GLFW_Tie_Fighter.exe"
+  "GLFW_Tie_Fighter.exe.manifest"
+  "GLFW_Tie_Fighter.pdb"
+  "libGLFW_Tie_Fighter.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/GLFW_Tie_Fighter.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\GLFW_Tie_Fighter.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\GLFW_Tie_Fighter.dir/objects.a @CMakeFiles\GLFW_Tie_Fighter.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GLFW_Tie_Fighter.dir/objects.a -Wl,--no-whole-archive -o GLFW_Tie_Fighter.exe -Wl,--out-implib,libGLFW_Tie_Fighter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GLFW_Tie_Fighter.dir\linkLibs.rsp

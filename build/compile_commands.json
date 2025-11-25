@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\main.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\main.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/main.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Application.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Application.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Application.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Cube.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Cube.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Cube.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cube.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Cylinder.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Cylinder.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Cylinder.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Cylinder.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Hexagon.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Hexagon.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Hexagon.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Hexagon.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\HexagonalPrism.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\HexagonalPrism.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/HexagonalPrism.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/HexagonalPrism.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Mesh.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Mesh.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Mesh.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Plate.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Plate.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Plate.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Plate.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Skybox.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Skybox.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Skybox.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Skybox.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Sphere.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Sphere.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Sphere.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Sphere.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\stb_image.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\stb_image.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/stb_image.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\Texture.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\Texture.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/Texture.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/Texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\TieFighter.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\TieFighter.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/TieFighter.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieFighter.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\TieWing.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\TieWing.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/TieWing.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/TieWing.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\XWing.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\XWing.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/XWing.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWing.cpp.obj"
+},
+{
+  "directory": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/GLFW_Tie_Fighter.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLFW_Tie_Fighter.dir\\src\\XWingClosed.cpp.obj -c C:\\Users\\ricar\\Documents\\GLFW_Tie_Fighter\\src\\XWingClosed.cpp",
+  "file": "C:/Users/ricar/Documents/GLFW_Tie_Fighter/src/XWingClosed.cpp",
+  "output": "CMakeFiles/GLFW_Tie_Fighter.dir/src/XWingClosed.cpp.obj"
+}
+]
